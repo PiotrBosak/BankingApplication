@@ -2,7 +2,7 @@ package pibosak.app.domain
 
 import java.util.UUID
 
-object banks {
+object bank {
 
 case class BankId(value: UUID) extends AnyVal
   case class BankName(value: String) extends AnyVal

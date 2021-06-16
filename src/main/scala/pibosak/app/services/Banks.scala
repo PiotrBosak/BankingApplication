@@ -1,5 +1,5 @@
 package pibosak.app.services
-import pibosak.app.domain.banks._
+import pibosak.app.domain.bank._
 import java.util.UUID
 trait Banks[F[_]]{
 
